@@ -1,0 +1,176 @@
+{
+  "site": {
+    "name": "Dra. Cheu Estética Dental",
+    "tagline": "Lentes em resina com naturalidade",
+    "slug": "dra-cheu",
+    "logo": "content/assets/dra-cheu-logo.svg",
+    "primary_color": "#b88c2a",
+    "secondary_color": "#1f3a4d",
+    "accent_color": "#e3b756",
+    "background_color": "#ffffff",
+    "text_color": "#1f2933"
+  },
+  "seo": {
+    "title": "Dra. Cheu | Lentes de resina com naturalidade",
+    "description": "Consultório especializado em lentes de resina, estética dental e restaurações com precisão artesanal em Fortaleza."
+  },
+  "hero": {
+    "headline": "✨ Lentes em resina com naturalidade",
+    "subheadline": "Excelência em estética dental com naturalidade na Rua Abel Tavares, 2436.",
+    "image": "https://images.pexels.com/photos/3845760/pexels-photo-3845760.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image_alt": "Dra. Cheu sorrindo em seu consultório",
+    "bullet_points": [
+      "Planejamento digital e mockup prévio do sorriso",
+      "Resinas de alta performance com acabamento translúcido",
+      "Acompanhamento pós-tratamento e manutenção preventiva"
+    ],
+    "primary_cta": {
+      "text": "Agendar consulta",
+      "link": "https://wa.me/5585987654321"
+    },
+    "secondary_cta": {
+      "text": "Ver resultados",
+      "link": "#resultados"
+    }
+  },
+  "about": {
+    "title": "Estética guiada pela naturalidade",
+    "content": "Dra. Cheu é referência em lentes de resina com acabamento artesanal, combinando tecnologia digital, sensibilidade artística e um acompanhamento acolhedor. Cada atendimento é planejado com mockup prévio, fotografia clínica e seleção minuciosa de cores para integrar o sorriso ao rosto inteiro.\n\nNo consultório, a experiência é leve do início ao fim: você encontra um ambiente confortável, agenda flexível, protocolos de biossegurança rigorosos e um time pronto para cuidar de cada detalhe.",
+    "highlights": [
+      "14+ anos de atuação em estética e restauração",
+      "Laboratório parceiro para entregas ágeis",
+      "Consultório boutique com atenção individual"
+    ]
+  },
+  "services": {
+    "title": "Tratamentos sob medida",
+    "description": "Protocolos completos para devolver harmonia e autoconfiança ao seu sorriso.",
+    "items": [
+      {
+        "name": "Lentes de resina invisíveis",
+        "description": "Preparação minimamente invasiva, acabamento brilho-espelho e efeito natural nas fotos.",
+        "icon": "\u2728"
+      },
+      {
+        "name": "Esculturas gengivais",
+        "description": "Reposicionamento delicado da gengiva para equilibrar proporções e mostrar mais dente ao sorrir.",
+        "icon": "\ud83e\udd0d"
+      },
+      {
+        "name": "Restaurações estéticas",
+        "description": "Troca de restaurações antigas, closes fotográficos perfeitos e resistência no dia a dia.",
+        "icon": "\ud83e\uddb7"
+      },
+      {
+        "name": "Clareamento supervisionado",
+        "description": "Protocolos combinados em consultório e home care com supervisão semanal.",
+        "icon": "\ud83e\udd42"
+      }
+    ]
+  },
+  "showcase": {
+    "title": "Resultados que emocionam",
+    "description": "Antes e depois que comprovam a naturalidade das lentes de resina e a precisão dos detalhes.",
+    "items": [
+      {
+        "title": "Sorriso realçado",
+        "caption": "Lentes translúcidas que alinharam forma, cor e brilho em apenas duas sessões.",
+        "image": "https://images.pexels.com/photos/4269696/pexels-photo-4269696.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      },
+      {
+        "title": "Transformação completa",
+        "caption": "Reequilíbrio de proporções, clareamento e acabamento perolado para um sorriso marcante.",
+        "image": "https://images.pexels.com/photos/5355695/pexels-photo-5355695.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      },
+      {
+        "title": "Detalhes impecáveis",
+        "caption": "Correção de espaços, nivelamento de bordas e texturas que imitam o esmalte natural.",
+        "image": "https://images.unsplash.com/photo-1522336572468-97b06e8ef143?ixlib=rb-4.0.3&auto=format&fit=crop&w=640&q=80"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Pacientes que brilham",
+    "items": [
+      {
+        "quote": "A Dra. Cheu transformou meu sorriso com uma delicadeza absurda. A cada etapa eu recebia fotos e tinha certeza do resultado!",
+        "name": "Carolina V.",
+        "role": "Paciente de lentes de resina"
+      },
+      {
+        "quote": "Meu tratamento foi totalmente personalizado. Saí com um sorriso lindo e instruções claras para manter tudo perfeito.",
+        "name": "Rafael L.",
+        "role": "Reabilitação estética"
+      },
+      {
+        "quote": "Nunca fui tão bem acolhida em um consultório. Do mockup ao polimento final, tudo aconteceu sem dores e com muito carinho.",
+        "name": "Isabela M.",
+        "role": "Lentes minimamente invasivas"
+      }
+    ]
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Quanto tempo leva para finalizar as lentes de resina?",
+        "answer": "O protocolo completo pode ser concluído em duas a três sessões, incluindo mockup, preparo minimamente invasivo, aplicação das lentes e acabamento final com fotografias clínicas."
+      },
+      {
+        "question": "As lentes ficam artificiais?",
+        "answer": "Não. A seleção de cores é feita com escala personalizada e o polimento final traz reflexos translúcidos semelhantes ao esmalte natural, garantindo harmonia com o rosto."
+      },
+      {
+        "question": "Posso parcelar o tratamento?",
+        "answer": "Oferecemos condições facilitadas, com parcelamento no cartão e programas de manutenção preventiva para prolongar o resultado das lentes."
+      },
+      {
+        "question": "O consultório atende urgências?",
+        "answer": "Sim. Reservamos horários semanais para ajustes e urgências de pacientes em tratamento, garantindo acolhimento rápido sempre que precisar."
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Pronta para se ver com um novo sorriso?",
+    "subheadline": "Reserve sua avaliação personalizada com a Dra. Cheu e descubra o melhor plano para o seu sorriso.",
+    "button": {
+      "text": "Quero agendar agora",
+      "link": "https://wa.me/5585987654321"
+    }
+  },
+  "contact": {
+    "title": "Agende sua avaliação",
+    "description": "Entre em contato pelo WhatsApp ou agende sua consulta presencial no consultório da Rua Abel Tavares, 2436.",
+    "phone": "+55 85 3030-1122",
+    "whatsapp": "5585987654321",
+    "email": "contato@dracheu.com",
+    "address": "Rua Abel Tavares, 2436 - Cidade dos Funcionários, Fortaleza - CE",
+    "hours": [
+      "Seg a Sex: 9h às 19h",
+      "Sábado: 9h às 13h"
+    ],
+    "social": [
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/dracheu"
+      },
+      {
+        "platform": "WhatsApp",
+        "url": "https://wa.me/5585987654321"
+      }
+    ],
+    "maps_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3973.958234045995!2d-38.491!3d-3.781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c74c1cde2d9c1f%3A0x0000000000000000!2sRua%20Abel%20Tavares%2C%202436%20-%20Cidade%20dos%20Funcion%C3%A1rios%2C%20Fortaleza%20-%20CE!5e0!3m2!1spt-BR!2sbr!4v1700000000000"
+  },
+  "footer": {
+    "text": "© Dra. Cheu Estética Dental. Resultados individualizados e naturais.",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/dracheu"
+      },
+      {
+        "label": "Política de Privacidade",
+        "url": "https://dracheu.com/politica"
+      }
+    ]
+  }
+}
